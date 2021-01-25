@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My application kept stopping which made me confused. After 2 hours i realized i had an null in my code which prevented the edit screen from opening. 
 
 ## License
 
